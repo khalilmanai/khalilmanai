@@ -1,6 +1,4 @@
-Here's an improved version of the README file that aligns with your resume:
 
----
 
 <h1 align="left">Hey 👋 What's up?</h1>
 
