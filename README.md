@@ -3,7 +3,7 @@
 <h1 align="left">Hey 👋 What's up?</h1>
 
 <p align="left">
-  My name is Khalil Manai, and I'm a Software Engineer based in Tunisia.
+  My name is Khalil Manai, and I'm a Software Engineering student based in Tunisia.
 </p>
 
 ###
