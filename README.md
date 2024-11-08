@@ -9,7 +9,7 @@ Inspired by a love for technology | Aspiring Software Engineer | Full-Stack Deve
 * 🌍  I'm based in Tunisia
 * 🖥️  See my portfolio at [khalilmanai.vercel.app](http://khalilmanai.vercel.app)
 * ✉️  You can contact me at [medkhalilmannai@gmail.com](mailto:medkhalilmannai@gmail.com)
-* 🧠  I'm learning Mobile developement using (Jetpack compose , swift , flutter )
+* 🧠  I'm learning Mobile developement using (Jetpack compose , swiftUI 5 , flutter )
 * 🤝  I'm open to collaborating on whatever can change the world to a better place
 * ⚡  Backend is cooler than frontend... Don't tell anyone XD
 
@@ -24,9 +24,3 @@ Inspired by a love for technology | Aspiring Software Engineer | Full-Stack Deve
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/khalilmanai" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in//manai-khalil" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
-
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/khalilmanai"><img src="https://github-readme-stats.vercel.app/api?username=khalilmanai&show_icons=true&hide=stars,&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="khalilmanai's GitHub stats" /></a>
