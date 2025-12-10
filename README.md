@@ -1,66 +1,74 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Khalil Manai
-================================================================================================================
+<div align="center">
 
-💻 Software Engineer | Full-Stack & Mobile Developer | AI & LLM Enthusiast 🤖  
+  <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30px"> 
+  <h1>Hi, I'm Khalil Manai</h1>
 
- + Seeking Graduation internship
+  ### 💻 Software Engineer | 📱 Mobile & Full-Stack Developer | 🤖 AI & LLM Enthusiast
+  
+  <p>
+    <em>Based in Tunisia 🇹🇳</em>
+  </p>
 
-Inspired by a love for technology and innovation 🌟  
-I build efficient, user-centric web and mobile applications — and explore how AI can reshape the future 🚀  
+  <br/>
 
-* 🌍  I'm based in Tunisia 🇹🇳  
-* 🖥️  Check out my portfolio: [khalilmanai.vercel.app](https://khalilmanai.vercel.app)  
-* ✉️  Reach me at: [medkhalilmannai@gmail.com](mailto:medkhalilmannai@gmail.com)  
-* 🧠  Currently learning **AI, LLM fine-tuning**, and **mobile development** using Jetpack Compose, Swift, and Flutter  
-* 🤝  Open to collaborating on projects that make the world a better and smarter place  
-* ⚡  Backend is cooler than frontend... Don’t tell anyone 😜  
+  <a href="mailto:medkhalilmannai@gmail.com">
+    <img src="https://img.shields.io/badge/🎯_Status-Actively_Seeking_Graduation_Internship-00bcd4?style=for-the-badge&logo=rocket" alt="Seeking Internship" />
+  </a>
+  <br/><br/>
 
----
+  <a href="https://khalilmanai.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Website-black?style=flat-square&logo=vercel" alt="Portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/manai-khalil">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="mailto:medkhalilmannai@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=flat-square&logo=gmail" alt="Email" />
+  </a>
 
-### 🧠 Skills & Tools
+</div>
 
-<p align="left">
-<a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://developer.apple.com/swift/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/swift-colored.svg" width="36" height="36" alt="Swift" /></a>
-<a href="https://dart.dev/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dart-colored.svg" width="36" height="36" alt="Dart" /></a>
-<a href="https://kotlinlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kotlin-colored.svg" width="36" height="36" alt="Kotlin" /></a>
-<a href="https://nodejs.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-<a href="https://nestjs.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nestjs-colored.svg" width="36" height="36" alt="NestJS" /></a>
-<a href="https://nextjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJS" /></a>
-<a href="https://flutter.dev/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" /></a>
-<a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a>
-<a href="https://supabase.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/supabase-colored.svg" width="36" height="36" alt="Supabase" /></a>
-<a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<a href="https://pytorch.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pytorch-colored.svg" width="36" height="36" alt="PyTorch" /></a>
-<a href="https://www.tensorflow.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" width="36" height="36" alt="TensorFlow" /></a>
-</p>
+<br/>
 
 ---
 
-### 🌐 Socials
+### 👨‍💻 About Me
 
-<p align="left">
-<a href="https://github.com/khalilmanai" target="_blank" rel="noreferrer">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
-  </picture>
-</a>
-<a href="https://www.linkedin.com/in/manai-khalil" target="_blank" rel="noreferrer">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
-  </picture>
-</a>
-</p>
+Inspired by a love for technology and innovation 🌟, I build efficient, user-centric web and mobile applications while exploring how AI can reshape the future.
+
+* 🔭 **Currently working on:** Fine-tuning LLMs and mastering Jetpack Compose & Flutter.
+* 🌱 **Learning:** Advanced AI architectures and scalable Backend systems.
+* 🤝 **Collaboration:** Open to projects that make the world a smarter place.
+* ⚡ **Fun fact:** I secretly believe Backend is cooler than Frontend... don’t tell the UI designers! 😜
 
 ---
 
-### 🏆 GitHub Stats
+### 🛠️ Tech Stack & Tools
 
-<a href="https://github.com/khalilmanai">
-  <img src="https://github-readme-stats.vercel.app/api?username=khalilmanai&show_icons=true&count_private=true&title_color=00bcd4&text_color=ffffff&icon_color=00bcd4&bg_color=1c1917&hide_border=true" alt="Khalil Manai's GitHub Stats" />
-</a>
+I specialize in building robust applications using a mix of modern web and mobile technologies.
+
+| **Category** | **Technologies** |
+| :--- | :--- |
+| **📱 Mobile** | <img src="https://skillicons.dev/icons?i=flutter,dart,swift,kotlin,compose" /> |
+| **💻 Web & Backend** | <img src="https://skillicons.dev/icons?i=ts,js,nodejs,nestjs,nextjs" /> |
+| **🤖 AI & Data** | <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow" /> |
+| **🔧 DevOps & Tools** | <img src="https://skillicons.dev/icons?i=docker,supabase,git,github" /> |
+
+---
+
+### 📊 GitHub Analytics
+
+<div align="center">
+  <a href="https://github.com/khalilmanai">
+    <img src="https://github-readme-stats.vercel.app/api?username=khalilmanai&show_icons=true&count_private=true&title_color=00bcd4&text_color=ffffff&icon_color=00bcd4&bg_color=1c1917&hide_border=true" height="180" alt="Khalil Manai's GitHub Stats" />
+  </a>
+  <a href="https://github.com/khalilmanai">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khalilmanai&layout=compact&title_color=00bcd4&text_color=ffffff&icon_color=00bcd4&bg_color=1c1917&hide_border=true" height="180" alt="Top Languages" />
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=khalilmanai&style=flat-square&color=00bcd4&label=Profile+Views" alt="Profile Views" />
+</div>
