@@ -1,74 +1,75 @@
 <div align="center">
 
-  <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30px"> 
-  <h1>Hi, I'm Khalil Manai</h1>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=25c2a0&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Khalil+Manai+👋;Software+Engineer+💻;Mobile+%26+Full-Stack+Dev+🚀;AI+%26+LLM+Enthusiast+🤖" alt="Typing SVG" />
 
-  ### 💻 Software Engineer | 📱 Mobile & Full-Stack Developer | 🤖 AI & LLM Enthusiast
-  
-  <p>
-    <em>Based in Tunisia 🇹🇳</em>
+  <p align="center">
+    <a href="https://khalilmanai.vercel.app">
+      <img src="https://img.shields.io/badge/Portfolio-khalilmanai.vercel.app-black?style=for-the-badge&logo=vercel&logoColor=white" />
+    </a>
+    <a href="https://www.linkedin.com/in/manai-khalil">
+      <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+    <a href="mailto:medkhalilmannai@gmail.com">
+      <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    </a>
   </p>
 
   <br/>
-
-  <a href="mailto:medkhalilmannai@gmail.com">
-    <img src="https://img.shields.io/badge/🎯_Status-Actively_Seeking_Graduation_Internship-00bcd4?style=for-the-badge&logo=rocket" alt="Seeking Internship" />
-  </a>
-  <br/><br/>
-
-  <a href="https://khalilmanai.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Website-black?style=flat-square&logo=vercel" alt="Portfolio" />
-  </a>
-  <a href="https://www.linkedin.com/in/manai-khalil">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin" alt="LinkedIn" />
-  </a>
-  <a href="mailto:medkhalilmannai@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=flat-square&logo=gmail" alt="Email" />
-  </a>
+  <div style="background-color: #1e1e2e; padding: 15px; border-radius: 10px; border: 1px solid #25c2a0;">
+    <h3 style="margin: 0; color: #25c2a0;">🎓 Actively Seeking Graduation Internship (PFE)</h3>
+    <p style="margin: 5px 0 0 0;">Available for opportunities in Tunisia or Remote. Specializing in Mobile (Flutter/Native) & AI Integration.</p>
+  </div>
+  <br/>
 
 </div>
-
-<br/>
 
 ---
 
 ### 👨‍💻 About Me
 
-Inspired by a love for technology and innovation 🌟, I build efficient, user-centric web and mobile applications while exploring how AI can reshape the future.
+I am a software engineer based in **Tunisia 🇹🇳** with a passion for building scalable systems and intelligent interfaces. I don't just write code; I solve problems.
 
-* 🔭 **Currently working on:** Fine-tuning LLMs and mastering Jetpack Compose & Flutter.
-* 🌱 **Learning:** Advanced AI architectures and scalable Backend systems.
-* 🤝 **Collaboration:** Open to projects that make the world a smarter place.
-* ⚡ **Fun fact:** I secretly believe Backend is cooler than Frontend... don’t tell the UI designers! 😜
+- 🔭 **Current Focus:** Fine-tuning LLMs & Advanced Mobile Architecture (Jetpack Compose/Flutter).
+- 💡 **Philosophy:** "Backend is cooler than frontend... but I make the frontend look good anyway." 😜
+- 🚀 **Goal:** To bridge the gap between complex AI models and user-friendly mobile experiences.
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### 🛠️ The Arsenal (Tech Stack)
 
-I specialize in building robust applications using a mix of modern web and mobile technologies.
+<div align="center">
 
-| **Category** | **Technologies** |
-| :--- | :--- |
-| **📱 Mobile** | <img src="https://skillicons.dev/icons?i=flutter,dart,swift,kotlin,compose" /> |
-| **💻 Web & Backend** | <img src="https://skillicons.dev/icons?i=ts,js,nodejs,nestjs,nextjs" /> |
-| **🤖 AI & Data** | <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow" /> |
-| **🔧 DevOps & Tools** | <img src="https://skillicons.dev/icons?i=docker,supabase,git,github" /> |
+| **Mobile Development** | **Backend & Web** | **AI & Data Science** | **DevOps & Tools** |
+| :---: | :---: | :---: | :---: |
+| <img src="https://skillicons.dev/icons?i=flutter,dart,swift,kotlin" /> | <img src="https://skillicons.dev/icons?i=nodejs,nestjs,ts,nextjs" /> | <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv" /> | <img src="https://skillicons.dev/icons?i=docker,git,supabase,postgres" /> |
+
+</div>
+
+---
+
+### 📂 Featured Projects
+
+| Project | Description | Stack |
+| :--- | :--- | :--- |
+| **🚀 [Project Name 1](https://github.com/khalilmanai/YOUR-REPO)** | A mobile application that solves X problem using AI integration. | `Flutter` `Python` `FastAPI` |
+| **🛒 [Project Name 2](https://github.com/khalilmanai/YOUR-REPO)** | Full-stack e-commerce dashboard with real-time analytics. | `NextJS` `Supabase` `TypeScript` |
+| **🧠 [AI Model Project](https://github.com/khalilmanai/YOUR-REPO)** | Fine-tuned LLM for specific task automation. | `PyTorch` `HuggingFace` |
 
 ---
 
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <a href="https://github.com/khalilmanai">
-    <img src="https://github-readme-stats.vercel.app/api?username=khalilmanai&show_icons=true&count_private=true&title_color=00bcd4&text_color=ffffff&icon_color=00bcd4&bg_color=1c1917&hide_border=true" height="180" alt="Khalil Manai's GitHub Stats" />
-  </a>
-  <a href="https://github.com/khalilmanai">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khalilmanai&layout=compact&title_color=00bcd4&text_color=ffffff&icon_color=00bcd4&bg_color=1c1917&hide_border=true" height="180" alt="Top Languages" />
-  </a>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=khalilmanai&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" height="180" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khalilmanai&layout=compact&theme=react&hide_border=true&bg_color=0D1117" height="180" alt="languages" />
+  <br/><br/>
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=khalilmanai&theme=react&hide_border=true&bg_color=0D1117" alt="streak" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=khalilmanai&style=flat-square&color=00bcd4&label=Profile+Views" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=khalilmanai&style=flat-square&color=25c2a0&label=Profile+Views" alt="Profile Views" />
 </div>
