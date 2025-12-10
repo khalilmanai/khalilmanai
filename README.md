@@ -2,7 +2,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ================================================================================================================
 
 💻 Software Engineer | Full-Stack & Mobile Developer | AI & LLM Enthusiast 🤖  
----
+
+ + Seeking Graduation internship
 
 Inspired by a love for technology and innovation 🌟  
 I build efficient, user-centric web and mobile applications — and explore how AI can reshape the future 🚀  
@@ -11,7 +12,6 @@ I build efficient, user-centric web and mobile applications — and explore how 
 * 🖥️  Check out my portfolio: [khalilmanai.vercel.app](https://khalilmanai.vercel.app)  
 * ✉️  Reach me at: [medkhalilmannai@gmail.com](mailto:medkhalilmannai@gmail.com)  
 * 🧠  Currently learning **AI, LLM fine-tuning**, and **mobile development** using Jetpack Compose, Swift, and Flutter  
-* 🧩  Working on **Zauro**, an AI-powered marketplace integrating **Hedera blockchain** and **Supabase**  
 * 🤝  Open to collaborating on projects that make the world a better and smarter place  
 * ⚡  Backend is cooler than frontend... Don’t tell anyone 😜  
 
